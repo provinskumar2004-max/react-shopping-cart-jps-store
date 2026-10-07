@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import ProductList from "./pages/ProductList";
+import ProductList from "./Pages/ProductList";
 import Cart from "./pages/Cart";
-import Checkout from "./pages/Checkout";
-import ProductDetail from "./pages/ProductDetail";
+import Checkout from "./Pages/Checkout";
+import ProductDetail from "./Pages/ProductDetail";
 import Footer from "./components/Footer";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
